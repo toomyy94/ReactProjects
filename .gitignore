@@ -1,1 +1,4 @@
-expenseList/.idea
+*/.idea
+/stock-shirts/
+/expenseViewer/.idea/
+/goalList/.idea/
